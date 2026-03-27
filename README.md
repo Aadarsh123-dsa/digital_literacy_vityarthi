@@ -11,26 +11,31 @@ This project is created as part of the Digital Literacy course. It demonstrates 
 ##Task Included
 Task 1: Digital Literacy Infographic
 
- Created an infographic explaining digital literacy, tools, and online safety.
+ -Created an infographic explaining digital literacy, tools, and online safety.
 
 Task 2: Digital Portfolio
 
-Created professional profiles on GitHub and LinkedIn.
+-Created professional profiles on GitHub and LinkedIn.
 
 Task 3: Platforms Exploration
 
-Completed coding challenge on HackerRank
+-Completed coding challenge on HackerRank
 
-Created Google Form quiz
+-Created Google Form quiz
 
 Task 4: Email Etiquette
 
-Drafted professional emails
+-Drafted professional emails
 
-Created social media checklist
+-Created social media checklist
 
 Task 5: Cybercrime Awareness
 
-Case study on phishing
+-Case study on phishing
 
-Prevention checklist
+-Prevention checklist
+-Google Form Link https://docs.google.com/forms/d/e/1FAIpQLSftFgh0Tuqm8TDLjykq8VM9BurHAO0Ni32JBzQQJeaBBUU9UA/viewform?usp=publish-editor
+
+Conclusion:
+
+This project improved my understanding of digital tools, communication, and online safety.
